@@ -24,6 +24,7 @@ The user should be able to:
 
 ## Mockup
 
+![mockup](https://user-images.githubusercontent.com/90168071/142798162-12994fe5-a8fa-4f46-baf8-ed4dac67cb43.JPG)
 
 
 ## Git Repo
